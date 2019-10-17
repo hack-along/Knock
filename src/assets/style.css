@@ -2973,6 +2973,10 @@ h1 {
   color: white !important
 }
 
+input[type=radio]:checked+label {
+  color: black !important;
+}
+
 p {
   font-weight: normal
 }

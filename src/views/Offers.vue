@@ -176,22 +176,22 @@ export default {
       hasError: false,
       categories: [  {
             id:1,
-            name:"Art",
+            name:"Goods",
             color:"#aebd38"
          },
          {
             id:2,
-            name:"Music",
+            name:"Services",
             color:"#38aebd"
          },
          {
             id:3,
-            name:"Business",
+            name:"Skills",
             color:"#bd38ae"
          },
          {
             id:4,
-            name:"ICT",
+            name:"Knowledge",
             color:"#ffee4c"
          }],
 

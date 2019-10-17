@@ -40,6 +40,11 @@ export default new Router({
       component: Circles
     },
     {
+      path: '/offers',
+      name: 'Offers',
+      component: Offers
+    },
+    {
       path: '/requests',
       name: 'Requests',
       component: Requests

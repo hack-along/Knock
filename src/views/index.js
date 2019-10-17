@@ -1,5 +1,6 @@
 import Circles from './Circles'
 import Events from './Events'
+import Offers from './Offers'
 import Requests from './Requests'
 import Login from './Login'
 import Logout from './Logout'
@@ -11,6 +12,7 @@ export {
   Logout,
   People,
   Circles,
+  Offers,
   Requests,
   Events,
   Profile
