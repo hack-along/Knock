@@ -5527,6 +5527,11 @@ h1, h2, h3, h4 {
   }
 }
 
+/*top-down list of requests/offers*/
+.col-md-4.card {
+  display: contents;
+}
+
 @media only screen and (min-width: 64em) {
   .container {
     width: 65rem

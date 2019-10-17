@@ -6,6 +6,7 @@ import {
   Logout,
   People,
   Circles,
+  Offers,
   Requests,
   Events,
   Profile

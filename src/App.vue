@@ -30,8 +30,9 @@
 
       <div class="col-sm-5 no-margin">
 
-        <router-link v-show="$store.state.navigation.show" tag="button" class="button" to="/people">People</router-link>
-        <router-link v-show="$store.state.navigation.show" tag="button" class="button" to="/requests">Requests</router-link>
+        <router-link v-show="$store.state.navigation.show" tag="button" style="background: #0eade1 !important;" class="button" to="/requests">Requests</router-link>
+        <router-link v-show="$store.state.navigation.show" tag="button" style="background: orange !important;" class="button" to="/requests">Offers</router-link>
+        <router-link v-show="$store.state.navigation.show" tag="button" style="background: mediumseagreen !important;" class="button" to="/people">People</router-link>
         <!-- <router-link v-show="$store.state.navigation.show" tag="button" class="button" to="/circles">Circles</router-link> -->
 
 
