@@ -5530,6 +5530,8 @@ h1, h2, h3, h4 {
 /*top-down list of requests/offers*/
 .col-md-4.card {
   display: contents;
+  flex-basis: 100%;
+  max-width: 100%;
 }
 
 @media only screen and (min-width: 64em) {
